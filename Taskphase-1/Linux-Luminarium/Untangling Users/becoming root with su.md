@@ -4,7 +4,7 @@ Here we learn how to escalate our privileges and become root using the `su` comm
 
 ## My Solve
 
-Flag : `pwn.college{Ixhlz7oY74-xsftjWOpO1qo3axK.QX3ATO0wCM0gjNzEzW}`
+Flag : `pwn.college{A3TpOaJUpHbPaAKDiA9pSTHSRrz.QX1UDN1wCM0gjNzEzW}`
 
 Here our task is to become `root` using the `su` command, with the password `hack-the-planet`, as shown in the image below.
 
